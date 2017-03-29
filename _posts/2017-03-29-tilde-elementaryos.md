@@ -20,3 +20,5 @@ As I said, that didn't change anything for me in ElementaryOS. But there is stil
 `setxkbmap -option apple:badmap`
 
 With this in hand on ElementaryOS or Ubuntu 16.04LTS you should be able to type your ~ key.
+
+You can see the official bug [here](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1245081).
