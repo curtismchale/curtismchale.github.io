@@ -1,3 +1,10 @@
+---
+layout: post
+title: No more asking for ssh passphrase
+date: 2017-03-29 10:30:00 -0800
+categories: ssh, ssh-agent
+---
+
 It's tiring to **continually** get asked for your SSH passphrase for every operation you do with SSH. But as with everything security related, you're making a tradeoff between ease of use and security.
 
 To that end I choose to use `ssh-agent` to handle my ssh key passphrases. You can add your passphrase to `ssh-agent` by typing `ssh-add` in your terminal. You should be prompted for your passphrase now so enter it.
