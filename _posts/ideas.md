@@ -1,0 +1,2 @@
+- Set default vim editor
+	- git config --global core.editor "vim"
