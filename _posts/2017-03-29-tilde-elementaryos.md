@@ -15,9 +15,13 @@ Since ElementaryOS is based on Ubuntu you'll find a bunch of solutions out there
 
 `echo 0 > /sys/module/hid_apple/parameters/iso_layout`
 
-As I said, that didn't change anything for me in ElementaryOS. But there is still a solution. Use the following command in your Terminal to get your tilde key back on your MacBook Air under ElementaryOS.
+As I said, that didn't change anything for me in ElementaryOS. But there is still a solution.
+
+You need to 'switch' keys 49 and 94 by setting the 'badmap' in the keyboard settings. Using the command below 'fixes' it but isn't persistent in my experience.
 
 `setxkbmap -option apple:badmap`
+
+To make it persistent edit `/etc/default/keyboard` and set `XKBOPTIONS="apple:badmap"`.
 
 With this in hand on ElementaryOS or Ubuntu 16.04LTS you should be able to type your ~ key.
 
