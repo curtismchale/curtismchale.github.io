@@ -7,7 +7,7 @@ categories: ElementaryOS
 
 While I loved Evernote for years I have continually felt that they were focusing on features that were of no use to me or to their core market at all. Then when they started heading down a road of looking in to my notes, I was gone.
 
-I was also fully invested in OSX then so I tried and loved DevonThink Pro. Unfortunately there is no version of DevonThink that runs on Linux so as I've made the switch to ElementaryOS I've had to look for something new.
+I was also fully invested in OSX then so I tried and loved [DevonThink Pro](http://www.devontechnologies.com/products/devonthink/overview.html). Unfortunately there is no version of DevonThink that runs on Linux so as I've made the switch to ElementaryOS I've had to look for something new.
 
 The closest thing so far has been [Zotero](https://www.zotero.org/download/).
 
