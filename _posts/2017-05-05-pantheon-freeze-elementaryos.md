@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vim freezes in Pantheon Terminal on Elementary OS
-date: 2017-03-29 10:30:00 -0800
+date: 2017-05-05 10:30:00 -0800
 categories: vim, pantheon, elemantaryos
 ---
 
