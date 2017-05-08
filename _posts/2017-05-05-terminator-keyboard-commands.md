@@ -21,6 +21,9 @@ do anything else from the keyboard aren't obvious.
 - `Ctrl + Shift + T` - open new tab
 - `Alt + Arrow Up/Down/Left/Right` - move to the terminal above/below/left/right
   of the current terminal
+- `Ctrl + pgdown` - next tab
+- `Ctrl + pgup` - previous tab
+- `Ctrl + Tab` - focus on the next tab
 
 If you're looking for more of what Terminator has to offer, right click on the
 Terminator window and from the menu you can access the preferences.
