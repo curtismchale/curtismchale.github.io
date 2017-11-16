@@ -12,3 +12,5 @@ Needed to clean up a client server recently that had 10GB of 'stuff' somewhere o
 Change `/home` to whatever directory on the server you want to start from and you'll get a list of the 10 biggest files ordered by size.
 
 Then go delete them.
+
+You can find more options [here](https://thomas.vanhoutte.be/miniblog/biggest-file-folder-linux/).
