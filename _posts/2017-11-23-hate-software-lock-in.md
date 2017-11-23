@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I hate software lock in
-date: 2017-03-29 10:30:00 -0800
+date: 2017-11-30 14:28:00 -0800
 categories: macOS, OSX, Linux, Windows
 ---
 
