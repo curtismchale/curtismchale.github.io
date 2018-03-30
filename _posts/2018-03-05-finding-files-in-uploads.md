@@ -26,13 +26,17 @@ files there as well.
 Shouldn't be any of these at all. Using SSH and terminal on my server I was able
 to search it for all instances of php files in the uploads directory easily.
 
-`find ./ -type f -name ".php"`
+`find . -name "*.php"`
 
-`./` means current directory so make sure you're at the current directory.
-
-`-type f` makes it search through the directory tree.
+`.` means current directory so make sure you're at the current directory you
+want to search.
 
 `-name "*.php"` tells it to return php files. So change that for whatever you're
 looking for.
+
+I also would search for `"*.ico"` files since many hackers try to get them in as
+well.
+
+`find . -name "*.ico"`
 
 Hopefully we've got things under control now.
